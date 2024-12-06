@@ -1,6 +1,6 @@
 # EVA5
 
-1- Crear un repositorio en github con el nombre 
+1- Crear un repositorio en github con el nombre programacion-segura 
 
 ```go
 import (
